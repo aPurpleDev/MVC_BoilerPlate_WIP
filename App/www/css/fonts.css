@@ -1,0 +1,21 @@
+/* Pacifico Regular */
+@font-face {
+    font-family: "Pacifico";
+    src: url("../fonts/Pacifico/Pacifico-Regular.ttf");
+}
+
+/* Josefin Slab Regular */
+@font-face {
+    font-family: "Josefin Slab Regular";
+    src: url('../fonts/Josefin_Slab/JosefinSlab-Regular.ttf');
+}
+/* Josefin Slab Regular Italic */
+@font-face {
+    font-family: "Josefin Slab Italic";
+    src: url('../fonts/Josefin_Slab/JosefinSlab-RegularItalic.ttf');
+}
+/* Josefin Slab Regular Italic */
+@font-face {
+    font-family: "Josefin Slab Bold-Ita";
+    src: url('../fonts/Josefin_Slab/JosefinSlab-BoldItalic.ttf');
+}

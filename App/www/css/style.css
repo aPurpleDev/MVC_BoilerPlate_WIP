@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+body {
+  font-family: 'Josefin Slab Regular';
+  max-width: 1400px;
+  margin: 0 auto;
+  background: rgba(0, 100, 150, 0.2);
+  padding: 2%;
+}
+main {
+
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Pacifico';
+}
+b {
+  color: red;
+}
